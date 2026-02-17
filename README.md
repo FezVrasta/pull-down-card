@@ -49,6 +49,8 @@ resources:
 
 The card supports Home Assistant's visual editor. Simply add a new card and search for "Pull Down Card".
 
+![Visual Editor](https://raw.githubusercontent.com/FezVrasta/pull-down-card/main/demo.png)
+
 ### YAML Configuration
 
 ```yaml
